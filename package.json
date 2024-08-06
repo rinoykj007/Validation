@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2"
+  }
+}
